@@ -2,7 +2,7 @@
 This repository contains a machine learning project focused on predicting customer churn for a Netflix-like subscription platform.
 The objective is to identify customers who are likely to cancel their subscription based on historical data and behavioral patterns.
 
-Project Overview
+#Project Overview
 
 Customer churn is a critical business problem in subscription-based services. Predicting churn allows companies to take proactive retention measures and reduce revenue loss.
 
@@ -14,19 +14,6 @@ Identifies patterns associated with churn
 
 Builds and evaluates machine learning models to predict churn
 
-Dataset
-
-The dataset includes customer-level information such as:
-
-Subscription details
-
-Usage behavior
-
-Account-related features
-
-Churn status (target variable)
-
-(Data is assumed to be preloaded or embedded in the notebook.)
 
 Workflow
 
