@@ -1,23 +1,21 @@
 # Netflix-customer-churn-prediction
-This repository contains a machine learning project focused on predicting customer churn for a Netflix-like subscription platform.
-The objective is to identify customers who are likely to cancel their subscription based on historical data and behavioral patterns.
+This repository contains a machine learning project that predicts customer churn for a Netflix-like subscription platform.
+The goal is to identify users likely to cancel their subscription using historical and behavioral data.
 
-#Project Overview
+📌 Project Overview
 
-Customer churn is a critical business problem in subscription-based services. Predicting churn allows companies to take proactive retention measures and reduce revenue loss.
+Customer churn is a major challenge for subscription-based businesses. Accurately predicting churn enables proactive retention strategies and helps reduce revenue loss.
 
 This project:
 
-Analyzes customer data
+Analyzes customer behavior data
 
-Identifies patterns associated with churn
+Identifies key factors contributing to churn
 
-Builds and evaluates machine learning models to predict churn
+Builds and evaluates machine learning models for churn prediction
 
-
-Workflow
-
-Data Preprocessing
+🔄 Workflow
+1. Data Preprocessing
 
 Handling missing values
 
@@ -25,27 +23,27 @@ Encoding categorical variables
 
 Feature scaling
 
-Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
 
-Churn distribution
+Churn distribution analysis
 
-Feature impact analysis
+Feature impact assessment
 
-Correlation inspection
+Correlation analysis
 
-Model Training
+3. Model Training
 
-Multiple classification models trained and compared
+Training and comparing multiple classification models
 
-Model Evaluation
+4. Model Evaluation
 
 Confusion matrix
 
-Precision, Recall, F1-score
+Precision, Recall, and F1-score
 
 Model performance comparison
 
-Models Implemented
+🤖 Models Implemented
 
 Logistic Regression
 
@@ -53,9 +51,7 @@ Decision Tree
 
 Random Forest
 
-(Only models actually used in the notebook are listed.)
-
-Evaluation Metrics
+📊 Evaluation Metrics
 
 Accuracy
 
@@ -67,7 +63,7 @@ F1-score
 
 Metrics beyond accuracy are emphasized due to class imbalance in churn prediction.
 
-Technologies Used
+🛠 Technologies Used
 
 Python
 
